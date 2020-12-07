@@ -2,7 +2,7 @@
 爱美剧 unlock vip（官网：xmj.app）
 
 QX : 
-^https?:\/\/mjapp.anlujia.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index) url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/aimeiju.js
+^https?:\/\/mjapp.anlujia.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index) url script-response-body https://raw.githubusercontent.com/xiewenhua/QuantumultX/master/Script/aimeiju.js
 
 Surge4：
 http-response ^https?:\/\/mjapp.anlujia.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/aimeiju.js

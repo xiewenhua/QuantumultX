@@ -1,6 +1,6 @@
 /*
 轻颜相机 Ulike 蒸汽波相机(vaporcam) 三合一解锁VIP
-https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body nzw9314/Script/qyxj.js
+https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body xiewenhua/Script/qyxj.js
 
 hostname= commerce-i18n-api.faceu.mobi,commerce-api.faceu.mobi, pay.wecut.com
 */

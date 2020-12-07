@@ -21,8 +21,8 @@ let token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 
 let repositories = [
     {
-        name: "NZW9314 脚本",
-        url: "https://github.com/nzw9314/QuantumultX/tree/master",
+        name: "xiewenhua 脚本",
+        url: "https://github.com/xiewenhua/QuantumultX/tree/master",
     },
     {
         name: "ClashX",

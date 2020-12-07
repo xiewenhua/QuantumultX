@@ -5,10 +5,10 @@
 重复签到不会提醒，，能签，自取
 
 [task_local]
-8 0 * * * nzw9314/Script/xmly_wc.js
+8 0 * * * xiewenhua/Script/xmly_wc.js
 
 [rewrite_local]
-https://m.ximalaya.com/wechat/ url script-request-header nzw9314/Script/xmly_wc.js
+https://m.ximalaya.com/wechat/ url script-request-header xiewenhua/Script/xmly_wc.js
 
 [mitm]
 hostname = m.ximalaya.com
