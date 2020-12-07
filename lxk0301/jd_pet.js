@@ -27,8 +27,8 @@ const cookie = jdCookieNode.CookieJD ? jdCookieNode.CookieJD : $.getdata('Cookie
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
 let jdNotify = $.getdata('jdPetNotify');
 let shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个
-  'MTAxODc2NTEzMjAwMDAwMDAzMDI3MTMyOQ==',
-  'MTAxODcxOTI2NTAwMDAwMDAyNjA4ODQyMQ==',
+  'ebxm5lgxoknqcpsumaw7hk36lczwiuavu5oleci',
+  'mlrdw3aw26j3xod7ahuupgw3nljtrhql6v2br2a',
   'MTAxODc2NTEzMDAwMDAwMDAwNTUwNDUxMw==',
   'MTAxODc2NTEzOTAwMDAwMDAxODQ5MDg5NQ==',
   'MTAxODcxOTI2NTAwMDAwMDAxOTQ3MjkzMw=='
